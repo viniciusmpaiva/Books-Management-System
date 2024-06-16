@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-3f444c52c56d5cbac5c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bookManagement",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bookManagement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bookManagement-Release-f3c4dc6ab8c4425a9eb4.json",
+					"name" : "bookManagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bookManagement_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bookManagement_autogen-Release-ea8acae6ed7b8314aa9b.json",
+					"name" : "bookManagement_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bookManagement_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bookManagement_autogen_timestamp_deps-Release-7d08a216b84c3bc7b839.json",
+					"name" : "bookManagement_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release",
+		"source" : "C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

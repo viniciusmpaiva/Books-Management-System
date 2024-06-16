@@ -1,0 +1,82 @@
+# ninja log v5
+5	132	0	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9261846e76f04020
+530	2471	7394212155795126	CMakeFiles/bookManagement.dir/main.cpp.obj	f7cc5d865e17f688
+18	209	7396759678294923	bookManagement_autogen/timestamp	9622d028d502e54f
+18	209	7396759678294923	bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+18	209	7396759678294923	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/timestamp	9622d028d502e54f
+18	209	7396759678294923	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+586	2749	7395147145785454	CMakeFiles/bookManagement.dir/bookManagement_autogen/mocs_compilation.cpp.obj	f2038e0e9559beda
+228	3013	7396759706301513	CMakeFiles/bookManagement.dir/mainwindow.cpp.obj	9d461f07b83176aa
+3057	4324	7396759719343033	bookManagement.exe	44c2b3b83e5dc8f8
+214	2209	7396757624462355	CMakeFiles/bookManagement.dir/booksManagement.cpp.obj	652aa0ae94bd67e7
+142	960	7394067871578969	build.ninja	d161b7ea866840a3
+233	3028	7396759706475962	CMakeFiles/bookManagement.dir/addbookwindow.cpp.obj	a283d7342dd59155
+240	3038	7396759706527712	CMakeFiles/bookManagement.dir/readregisterwindow.cpp.obj	c4602f2e9727aaab
+236	3056	7396759706748954	CMakeFiles/bookManagement.dir/editregisterwindow.cpp.obj	adf14a6cc40df917
+10	171	0	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9261846e76f04020
+32	299	7396765608675208	bookManagement_autogen/timestamp	9622d028d502e54f
+32	299	7396765608675208	bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+32	299	7396765608675208	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/timestamp	9622d028d502e54f
+32	299	7396765608675208	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+324	2572	7396765631419778	CMakeFiles/bookManagement.dir/booksManagement.cpp.obj	652aa0ae94bd67e7
+338	3386	7396765639513175	CMakeFiles/bookManagement.dir/readregisterwindow.cpp.obj	c4602f2e9727aaab
+334	3469	7396765640375142	CMakeFiles/bookManagement.dir/editregisterwindow.cpp.obj	adf14a6cc40df917
+319	3473	7396765640424180	CMakeFiles/bookManagement.dir/mainwindow.cpp.obj	9d461f07b83176aa
+330	3477	7396765640461067	CMakeFiles/bookManagement.dir/addbookwindow.cpp.obj	a283d7342dd59155
+3477	3752	7396765643150139	bookManagement.exe	44c2b3b83e5dc8f8
+5	122	0	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9261846e76f04020
+8	147	0	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9261846e76f04020
+10	203	7396767044345563	bookManagement_autogen/timestamp	9622d028d502e54f
+10	203	7396767044345563	bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+10	203	7396767044345563	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/timestamp	9622d028d502e54f
+10	203	7396767044345563	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+222	2997	7396767072274616	CMakeFiles/bookManagement.dir/booksManagement.cpp.obj	652aa0ae94bd67e7
+226	4175	7396767084074247	CMakeFiles/bookManagement.dir/addbookwindow.cpp.obj	a283d7342dd59155
+238	4181	7396767084174844	CMakeFiles/bookManagement.dir/readregisterwindow.cpp.obj	c4602f2e9727aaab
+235	4292	7396767085267961	CMakeFiles/bookManagement.dir/editregisterwindow.cpp.obj	adf14a6cc40df917
+230	4325	7396767085616922	CMakeFiles/bookManagement.dir/mainwindow.cpp.obj	9d461f07b83176aa
+4326	4603	7396767088338915	bookManagement.exe	44c2b3b83e5dc8f8
+6	120	0	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9261846e76f04020
+17	192	7396773464486042	bookManagement_autogen/timestamp	9622d028d502e54f
+17	192	7396773464486042	bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+17	192	7396773464486042	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/timestamp	9622d028d502e54f
+17	192	7396773464486042	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+221	2356	7396773486128090	CMakeFiles/bookManagement.dir/booksManagement.cpp.obj	652aa0ae94bd67e7
+225	3235	7396773494922335	CMakeFiles/bookManagement.dir/readregisterwindow.cpp.obj	c4602f2e9727aaab
+217	3269	7396773495267690	CMakeFiles/bookManagement.dir/addbookwindow.cpp.obj	a283d7342dd59155
+213	3273	7396773495297689	CMakeFiles/bookManagement.dir/mainwindow.cpp.obj	9d461f07b83176aa
+234	3320	7396773495782938	CMakeFiles/bookManagement.dir/editregisterwindow.cpp.obj	adf14a6cc40df917
+3321	3629	7396773498778944	bookManagement.exe	44c2b3b83e5dc8f8
+7	136	0	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9261846e76f04020
+17	205	7396777217373126	bookManagement_autogen/timestamp	9622d028d502e54f
+17	205	7396777217373126	bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+17	205	7396777217373126	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/timestamp	9622d028d502e54f
+17	205	7396777217373126	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+220	2155	7396777236914238	CMakeFiles/bookManagement.dir/booksManagement.cpp.obj	652aa0ae94bd67e7
+227	3088	7396777246256919	CMakeFiles/bookManagement.dir/mainwindow.cpp.obj	9d461f07b83176aa
+231	3105	7396777246412305	CMakeFiles/bookManagement.dir/editregisterwindow.cpp.obj	adf14a6cc40df917
+238	3107	7396777246412305	CMakeFiles/bookManagement.dir/readregisterwindow.cpp.obj	c4602f2e9727aaab
+224	3125	7396777246601268	CMakeFiles/bookManagement.dir/addbookwindow.cpp.obj	a283d7342dd59155
+3126	3418	7396777249463502	bookManagement.exe	44c2b3b83e5dc8f8
+6	138	0	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9261846e76f04020
+20	211	7396781969945902	bookManagement_autogen/timestamp	9622d028d502e54f
+20	211	7396781969945902	bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+20	211	7396781969945902	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/timestamp	9622d028d502e54f
+20	211	7396781969945902	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+233	2187	7396781989678919	CMakeFiles/bookManagement.dir/booksManagement.cpp.obj	652aa0ae94bd67e7
+236	3070	7396781998540225	CMakeFiles/bookManagement.dir/addbookwindow.cpp.obj	a283d7342dd59155
+240	3095	7396781998778978	CMakeFiles/bookManagement.dir/readregisterwindow.cpp.obj	c4602f2e9727aaab
+229	3156	7396781999369736	CMakeFiles/bookManagement.dir/mainwindow.cpp.obj	9d461f07b83176aa
+244	3176	7396781999552149	CMakeFiles/bookManagement.dir/editregisterwindow.cpp.obj	adf14a6cc40df917
+3176	3631	7396782004089078	bookManagement.exe	44c2b3b83e5dc8f8
+6	157	0	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	9261846e76f04020
+19	243	7396783857975466	bookManagement_autogen/timestamp	9622d028d502e54f
+19	243	7396783857975466	bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+19	243	7396783857975466	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/timestamp	9622d028d502e54f
+19	243	7396783857975466	C:/Users/vinic/OneDrive/Documentos/Aprendizado/Nova pasta/bookManagement/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/bookManagement_autogen/mocs_compilation.cpp	9622d028d502e54f
+276	2341	7396783879005324	CMakeFiles/bookManagement.dir/booksManagement.cpp.obj	652aa0ae94bd67e7
+280	3121	7396783886727101	CMakeFiles/bookManagement.dir/readregisterwindow.cpp.obj	c4602f2e9727aaab
+272	3204	7396783887632473	CMakeFiles/bookManagement.dir/mainwindow.cpp.obj	9d461f07b83176aa
+267	3243	7396783888032657	CMakeFiles/bookManagement.dir/addbookwindow.cpp.obj	a283d7342dd59155
+284	3278	7396783888306560	CMakeFiles/bookManagement.dir/editregisterwindow.cpp.obj	adf14a6cc40df917
+3279	3886	7396783894398383	bookManagement.exe	44c2b3b83e5dc8f8
